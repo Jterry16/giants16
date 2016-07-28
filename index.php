@@ -7,27 +7,20 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Bookazon Sign IN</title>
+        <title>Bookazon</title>
     </head>
     <body>
-        <h1>Login</h1>
-        <p>Username:</p>
-        <p>Password:</p>
-       <button type="button" onclick="alert('Hello world!')">Sign in</button>
-    
-        <h1>Registration</h1>
-        <p>First Name:</p>
-           <p>Last Name:</p>
-           <p>Email address:</p>
-           <p>Phone Number:</p>
-           <p>Billing Address:</p>
-           <button type="button" onclick="alert('Hello world!')">Finish</button>
-           
-           <h1>Confirmation</h1>
-        <p>Username:</p>
-        <p>Password:</p>
-        <p>re-enter password</p>
-       <button type="button" onclick="alert('Hello world!')">Confirm</button>
+        
+        <h1>Bookazon</h1>
+        <ul>
+            <li><a href="login.php">Log In</a></li>
+            <li><a href="registration.php">Registration</a></li>
+            <li><a href="confirmation.php">Confirmation</a></li>
+            
+                
+            
+            
+        </ul>
 
     </body>
 </html>
