@@ -7,9 +7,15 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Registration</title>
     </head>
     <body>
-        <h1>test</h1>
+    
+        <h1>Registration Page</h1>
+        <p>First Name:</p>
+           <p>Last Name:</p>
+           <p>Email address:</p>
+           <p>Phone Number:</p>
+           <p>Billing Address:</p>
     </body>
 </html>
