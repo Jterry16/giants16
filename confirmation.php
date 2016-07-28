@@ -10,6 +10,8 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-    <h> test </1h>
+        <?php
+        ?>
+    <h1>Thank You for joining Bookazon</h1>
     </body>
 </html>
