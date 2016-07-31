@@ -10,6 +10,31 @@ and open the template in the editor.
         <title>Bookazon</title>
     </head>
     <body>
+        <style>
+            ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+            }
+    li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111111;
+}
+</style>
+
+
         
         <h1>Bookazon</h1>
         <ul>
@@ -18,7 +43,6 @@ and open the template in the editor.
             <li><a href="confirmation.php">Confirmation</a></li>
             
                 
-            
             
         </ul>
 
