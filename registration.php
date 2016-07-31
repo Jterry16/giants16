@@ -29,8 +29,20 @@ Email Address:<br>
 <input type="text" name="emailaddress">
 <br>
 
-Location:<br>
-<input type="text" name="location">
+Phone Number:<br>
+<input type="text" name="phonenumber">
+<br>
+
+City:<br>
+<input type="text" name="city">
+<br>
+
+State/region:<br>
+<input type="text" name="state/region">
+<br>
+
+Zip Code:<br>
+<input type="text" name="zipcode">
 <br>
 
 Billing Address:<br>
