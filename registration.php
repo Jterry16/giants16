@@ -30,7 +30,8 @@ Email Address:<br>
 <br>
 
 Create Password:<br>
-<input type="text" name="createpassword"
+<input type="text" name="createpassword">
+<br>
 
 Phone Number:<br>
 <input type="text" name="phonenumber">
