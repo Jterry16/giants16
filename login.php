@@ -12,20 +12,12 @@ and open the template in the editor.
     <body>
         <?php
         ?>
+        <h1>Please log in</h1>
 
-<h1>Please log in</h1>
-
-<form action="login.php">
-
-UserName:<br>
-<input type="text" name="username">
-<br>
-
-Password:<br>
-<input type="text" name="lastname">
-<br><br>
-<input type="submit" value="Log in">
-
+ <form action="welcome.php" method="post">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+<input type="submit">
 
 </form>
     </body>

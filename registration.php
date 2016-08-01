@@ -29,6 +29,9 @@ Email Address:<br>
 <input type="text" name="emailaddress">
 <br>
 
+Create Password:<br>
+<input type="text" name="createpassword"
+
 Phone Number:<br>
 <input type="text" name="phonenumber">
 <br>
