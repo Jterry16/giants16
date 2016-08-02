@@ -15,7 +15,7 @@ and open the template in the editor.
         
     <h1> Registration Form </h1>
     
-    <form action="registration.php">
+    <form action="registrated.php"method="post">
 
 First Name:<br>
 <input type="text" name="firstname">
